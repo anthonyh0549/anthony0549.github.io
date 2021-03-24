@@ -46,8 +46,8 @@
             <h1 class="margin text-center">Example Project</h1>
             <p>Text about the project</p>
             <p>More text about the project.</p>
-            <a href="https://ide-db26be4e08dc4d7eaac9918fa7246716-8081.cs50.ws/index.html">Here is a preview of the finised program</a><br>
-            <a href="https://ide-db26be4e08dc4d7eaac9918fa7246716-8081.cs50.ws/JS_API_Project/script.js">Here is a overview of the js code that goes into that program</a><br>
+            <a href="https://anthonyh0549.github.io/JS_API_Project/">Here is a preview of the finised program</a><br>
+            <a href="https://github.com/anthonyh0549/JS_API_Project">Here is a overview of the project on GitHub</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a>-->
